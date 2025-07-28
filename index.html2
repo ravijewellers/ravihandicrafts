@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ravi Handicrafts</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 20px; background: #f7f3e9; }
+    h1 { color: #8b4513; }
+    .product {
+      margin: 20px auto;
+      padding: 10px;
+      background: #fff;
+      border-radius: 10px;
+      width: 300px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    img {
+      width: 100%;
+      border-radius: 10px;
+    }
+    p {
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    .whatsapp {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #25D366;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to Ravi Handicrafts</h1>
+  <p>Authentic Indian Handmade Products</p>
+
+  <div class="product">
+    <img src="https://drive.google.com/uc?export=view&id=1Umg2pzB1aorRQAXqcC1WEjdsZKoZfJxL" alt="Handicraft Product">
+    <p>Beautiful Handcrafted Item</p>
+  </div>
+
+  <a class="whatsapp" href="https://wa.me/919027454672" target="_blank">💬 Order on WhatsApp</a>
+
+</body>
+</html>
